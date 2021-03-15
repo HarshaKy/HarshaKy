@@ -1,6 +1,10 @@
 ### Hi there 👋 
-[![HitCount](http://hits.dwyl.com/harshaky/harshaky.svg)](http://hits.dwyl.com/harshaky/harshaky)
 
+
+## Reach out to me at: :vulcan_salute:
+
+- [Email](mailto:harshaky6573@gmail.com) :email:
+- [LinkedIn](https://linkedin.com/in/harshaky) :tea:
 
 
 ![Harsha's github stats](https://github-readme-stats.vercel.app/api?username=harshaky&show_icons=true&theme=tokyonight&count_private=true)
