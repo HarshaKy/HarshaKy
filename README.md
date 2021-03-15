@@ -1,4 +1,4 @@
-### Hi there 👋  [![HitCount](http://hits.dwyl.com/nsudhanva/nsudhanva.svg)]
+### Hi there 👋  ![HitCount](http://hits.dwyl.com/nsudhanva/nsudhanva.svg)
 
 
 
